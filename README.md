@@ -1,4 +1,5 @@
-# Soul Eater
-## Soul Evans
+# Shinmai Maou no Testament
 
-If you forget your fear you become reckless.
+Basara Tōjō
+
+There are some scars that never fade.

@@ -7,7 +7,8 @@ fetch('https://animechan.vercel.app/api/random')
     .then(response => response.json())
     .then(quote => {
       const new_quote = `# ${quote.anime}
-## ${quote.character}
+
+${quote.character}
 
 ${quote.quote}`;
       try {
