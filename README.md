@@ -1,5 +1,5 @@
-# Deadman Wonderland
+# The Legend of the Legendary Heroes
 
-Mitsuzaki Yosuga
+Ryner Lute
 
-People fear death because they don't "understand" it, and we're afraid of strangers because we don't "know" them. Not being able to understand the one you love... is the worst fear of all.
+People don't kill people, really. Monsters do. Monsters like war, hungry nobles, and greedy kingdoms. And monsters like me, not you.
