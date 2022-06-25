@@ -1,5 +1,5 @@
-# Wolf's Rain
+# Deadman Wonderland
 
-Kiba
+Mitsuzaki Yosuga
 
-Why? Why do humans always look to the sky? Why do you try so hard to fly when you don't have any wings? We'll run on our own legs.
+People fear death because they don't "understand" it, and we're afraid of strangers because we don't "know" them. Not being able to understand the one you love... is the worst fear of all.
