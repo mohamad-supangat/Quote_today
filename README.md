@@ -1,5 +1,5 @@
-# Ouran High School Host Club
+# Katanagatari
 
-Haruhi Fujioka
+Togame
 
-Besides, it doesn't really matter, does it? Why should I care about appearances and labels anyway. It's what's on the inside that counts.
+By abandoning offense, even without winning, the result will be effectively victory.
