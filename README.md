@@ -1,5 +1,5 @@
-# Bleach
+# Yamada-kun to 7-nin no Majo
 
-Arisawa Tatsuki
+Yamazaki Haruma
 
-What a punchline, no... that was just a punch.
+You can erase the memories, but you can't erase the feelings behind them.
