@@ -1,5 +1,5 @@
-# Fullmetal Alchemist: Brotherhood
+# Bleach
 
-Fullmetal Alchemist: Brotherhood
+Arisawa Tatsuki
 
-If you'll cower at the sight of the great foe before you, leave at once, coward. If you'll lose the strength you believed in, then fall to the ground, weakling.
+What a punchline, no... that was just a punch.
