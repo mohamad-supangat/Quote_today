@@ -1,5 +1,5 @@
-# Tonari No Kaibutsu-kun
+# Death Note
 
-Yoshida Haru
+Light Yagami
 
-What's so special about studying? Every problem has an answer. How hard can it be?
+In this world, there are very few people who actually trust each other.
