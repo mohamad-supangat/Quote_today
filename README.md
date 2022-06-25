@@ -1,5 +1,5 @@
-# Death Note
+# Inuyasha
 
-Light Yagami
+Kagome Higurashi
 
-In this world, there are very few people who actually trust each other.
+It's nice not to be alone.
