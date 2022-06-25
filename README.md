@@ -1,5 +1,5 @@
-# Inuyasha
+# Hagure Yuusha No Estetica
 
-Kagome Higurashi
+Ohtorizawa Akatsuki
 
-It's nice not to be alone.
+Transfer students, no mater what world or time they're in - exist to be stared at.
