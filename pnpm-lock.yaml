@@ -1,12 +1,19 @@
 lockfileVersion: 5.4
 
 specifiers:
+  get-random-emoji: ^1.0.0
   node-fetch: '2'
 
 dependencies:
+  get-random-emoji: 1.0.0
   node-fetch: 2.6.7
 
 packages:
+
+  /get-random-emoji/1.0.0:
+    resolution: {integrity: sha512-6iF8FipG4qgdgWwDr05So1T/1WKTF80GQDNZKHiWctyAVUYwvztRCi/bEhJE2nRSINx9CHWxrwUVk5UbuJ+M3A==}
+    engines: {node: '>=8'}
+    dev: false
 
   /node-fetch/2.6.7:
     resolution: {integrity: sha512-ZjMPFEfVx5j+y2yF35Kzx5sF7kDzxuDj6ziH4FFbOp87zKDZNx8yExJIb05OGF4Nlt9IHFIMBkRl41VdvcNdbQ==}

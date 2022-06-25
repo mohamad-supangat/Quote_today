@@ -4,6 +4,7 @@
   "main": "update.js",
   "license": "MIT",
   "dependencies": {
+    "get-random-emoji": "^1.0.0",
     "node-fetch": "2"
   }
 }

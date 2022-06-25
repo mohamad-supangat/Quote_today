@@ -1,5 +1,5 @@
-# Bleach
+# Ao Haru Ride
 
-Kurotsuchi Mayuri
+Yoshioka Futaba
 
-Killing you now will be as easy as strangling a baby.
+No one’s going to criticize you if you get excited for something, or you laugh with all your heart! And if someone does, I’ll beat them up!
