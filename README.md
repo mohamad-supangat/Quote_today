@@ -1,5 +1,5 @@
-# Kuroko No Basket
+# Yu Yu Hakusho
 
-Tetsuya Kuroko
+Hiei
 
-I am the shadow that has overcome the light.
+Do I have to kill you to stop you from being foolish?
