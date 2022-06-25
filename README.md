@@ -1,5 +1,5 @@
-# Yamada-kun to 7-nin no Majo
+# Claymore
 
-Yamazaki Haruma
+Clare
 
-You can erase the memories, but you can't erase the feelings behind them.
+Don't be so quick to throw away your life. No matter how disgraceful or embarrassing it may be, you need to keep struggling to find your way out until the very end.
