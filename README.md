@@ -1,5 +1,5 @@
-# Yu Yu Hakusho
+# Final Fantasy VII: Advent Children
 
-Hiei
+Cloud Strife
 
-Do I have to kill you to stop you from being foolish?
+Anyone may claim that he will act in the direst times, yet only a brave man acts in times great and small.
