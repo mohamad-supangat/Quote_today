@@ -1,5 +1,5 @@
-# Hagure Yuusha No Estetica
+# Ouran High School Host Club
 
-Ohtorizawa Akatsuki
+Haruhi Fujioka
 
-Transfer students, no mater what world or time they're in - exist to be stared at.
+Besides, it doesn't really matter, does it? Why should I care about appearances and labels anyway. It's what's on the inside that counts.
