@@ -1,5 +1,5 @@
-# Avatar: The Last Airbender
+# Fullmetal Alchemist: Brotherhood
 
-Zuko
+Fullmetal Alchemist: Brotherhood
 
-[yelling angrily toward the sky] You've always thrown everything you could at me! Well, I can take it, and now I can give it back! Come on! STRIKE ME! You've never held back before!
+If you'll cower at the sight of the great foe before you, leave at once, coward. If you'll lose the strength you believed in, then fall to the ground, weakling.
