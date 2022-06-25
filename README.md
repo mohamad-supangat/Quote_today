@@ -1,5 +1,5 @@
-# Kuroshitsuji
+# Gintama
 
-Sebastian Michaelis
+Gintoki Sakata
 
-Humans are easily tempted. When they are poised on the edge of hellish despair, and a spider-thin thread of salvation presents itself, they will invariably grasp it. No matter the human.
+If you have time to think of a beautiful end, then live beautifully until the end.
