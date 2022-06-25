@@ -1,5 +1,5 @@
-# Gintama
+# Tonari No Kaibutsu-kun
 
-Gintoki Sakata
+Natsume Asako
 
-If you have time to think of a beautiful end, then live beautifully until the end.
+There's nothing more repulsive than being touched by a guy you don't like.
