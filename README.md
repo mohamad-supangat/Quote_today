@@ -1,5 +1,5 @@
-# Naruto
+# Wolf's Rain
 
-Shino Aburame
+Kiba
 
-Trying to improve by learning from others that is what calls friendship.
+Why? Why do humans always look to the sky? Why do you try so hard to fly when you don't have any wings? We'll run on our own legs.
