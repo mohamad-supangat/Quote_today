@@ -1,5 +1,5 @@
-# Bleach
+# Warau Kanoko-sama
 
-Soi Fon
+Kanoko Naedoko
 
-Things like protecting the world are no more than moral reasons that sound good.
+You can't be strong not because you can't throw away your weakness, but it's because you don't face your own weakness.
