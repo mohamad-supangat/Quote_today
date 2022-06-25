@@ -1,5 +1,5 @@
-# Katanagatari
+# Katekyo Hitman Reborn!
 
-Togame
+Tsunayoshi Sawada
 
-By abandoning offense, even without winning, the result will be effectively victory.
+Be more confident despite your weaknesses and failures.
