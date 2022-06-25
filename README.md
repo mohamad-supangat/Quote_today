@@ -1,5 +1,5 @@
-# Ao Haru Ride
+# Gintama
 
-Yoshioka Futaba
+Gintoki Sakata
 
-No one’s going to criticize you if you get excited for something, or you laugh with all your heart! And if someone does, I’ll beat them up!
+Oh crap! Today is Jump release day! I forgot it comes out on Saturday this week! We have to go back!
