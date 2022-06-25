@@ -1,5 +1,5 @@
-# Claymore
+# Kuroshitsuji
 
-Clare
+Sebastian Michaelis
 
-Don't be so quick to throw away your life. No matter how disgraceful or embarrassing it may be, you need to keep struggling to find your way out until the very end.
+Humans are easily tempted. When they are poised on the edge of hellish despair, and a spider-thin thread of salvation presents itself, they will invariably grasp it. No matter the human.
