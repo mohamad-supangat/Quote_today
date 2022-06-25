@@ -1,5 +1,5 @@
-# Berserk
+# Avatar: The Last Airbender
 
-Schierke
+Zuko
 
-No matter how strong, for a human to fight a monster means he has submerged his humanity and transformed himself into a greater monster.
+[yelling angrily toward the sky] You've always thrown everything you could at me! Well, I can take it, and now I can give it back! Come on! STRIKE ME! You've never held back before!
