@@ -1,5 +1,5 @@
-# Trigun
+# Bleach
 
-Nicholas D. Wolfwood
+Soi Fon
 
-Whenever I look at you, I'm reminded about everything I hate about myself. It hurts.
+Things like protecting the world are no more than moral reasons that sound good.
