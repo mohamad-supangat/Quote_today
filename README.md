@@ -1,5 +1,5 @@
-# Soul Eater
+# Berserk
 
-Blair
+Schierke
 
-Oh! My little scythey boy!
+No matter how strong, for a human to fight a monster means he has submerged his humanity and transformed himself into a greater monster.
