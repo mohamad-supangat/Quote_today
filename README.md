@@ -1,5 +1,5 @@
-# Kamisama No Memochou
+# Naruto
 
-Shionji Yuuko
+Shino Aburame
 
-What takes reason a hundred years to build a bridge to only takes the wings of faith a single night to reach.
+Trying to improve by learning from others that is what calls friendship.
