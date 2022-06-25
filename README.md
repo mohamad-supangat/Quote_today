@@ -1,5 +1,5 @@
-# Warau Kanoko-sama
+# Kuroko No Basket
 
-Kanoko Naedoko
+Tetsuya Kuroko
 
-You can't be strong not because you can't throw away your weakness, but it's because you don't face your own weakness.
+I am the shadow that has overcome the light.
