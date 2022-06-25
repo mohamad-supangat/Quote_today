@@ -1,5 +1,5 @@
-# Katekyo Hitman Reborn!
+# Bleach
 
-Tsunayoshi Sawada
+Kurotsuchi Mayuri
 
-Be more confident despite your weaknesses and failures.
+Killing you now will be as easy as strangling a baby.
