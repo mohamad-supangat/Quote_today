@@ -1,5 +1,5 @@
-# Gintama
+# Tonari No Kaibutsu-kun
 
-Gintoki Sakata
+Yoshida Haru
 
-Oh crap! Today is Jump release day! I forgot it comes out on Saturday this week! We have to go back!
+What's so special about studying? Every problem has an answer. How hard can it be?
