@@ -1,5 +1,5 @@
-# Shigatsu Wa Kimi No Uso
+# Ao Haru Ride
 
-Kousei Arima
+Yoshioka Futaba
 
-Maybe... just maybe, the light can reach even the bottom of a dark ocean.
+No one’s going to criticize you if you get excited for something, or you laugh with all your heart! And if someone does, I’ll beat them up!
