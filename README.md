@@ -1,5 +1,5 @@
-# Tonari No Kaibutsu-kun
+# Trigun
 
-Natsume Asako
+Nicholas D. Wolfwood
 
-There's nothing more repulsive than being touched by a guy you don't like.
+Whenever I look at you, I'm reminded about everything I hate about myself. It hurts.
