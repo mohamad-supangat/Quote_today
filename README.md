@@ -1,5 +1,5 @@
-# Ao Haru Ride
+# Soul Eater
 
-Yoshioka Futaba
+Blair
 
-No one’s going to criticize you if you get excited for something, or you laugh with all your heart! And if someone does, I’ll beat them up!
+Oh! My little scythey boy!
