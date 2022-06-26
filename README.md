@@ -1,5 +1,5 @@
-# Serial Experiments Lain
+# Tamako Market
 
-Arisu Mizuki
+Kunio Yaobi
 
-If you aren't remembered, then you never existed.
+If you think music is only made of sounds, you're mistaken. Silence is also part of music.
