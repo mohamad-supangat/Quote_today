@@ -1,5 +1,5 @@
-# Subete ga F ni Naru
+# 07 Ghost
 
-Magata Shiki
+Teito Klein
 
-No one fears death. They fear the life that leads up to death. If one could die without suffering, no one would fear death, right? Being alive is, itself, an exception. The natural state of things is death. And life is, itself, a kind of sickness. When the illness is cured, your life vanishes.
+I used to think that eating was only consuming needed nutrients. I never thought it could fill the emptiness in me.
