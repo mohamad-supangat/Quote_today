@@ -1,5 +1,5 @@
-# Kuroko No Basket
+# Great Teacher Onizuka
 
-Taiga Kagami
+Eikichi Onizuka
 
-If we understood how other people felt, then nobody would ever start wars!
+Sometimes violence is the only way to get the message across.
