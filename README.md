@@ -1,5 +1,5 @@
-# Kamisama no Inai Nichiyoubi
+# Junjou Romantica
 
-Hampnie Hambart
+Akihiko Usami
 
-Remember this. The only words that can keep you alive are "I want to live."
+I am not a person who only wants to receive things from him, I want to be the person who can give things to him.
