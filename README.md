@@ -1,5 +1,5 @@
-# Inuyasha
+# Mahouka Koukou no Rettousei
 
-Sesshomaru
+Tatsuya Shiba
 
-All that for a memory and a dead mortal girl. If I've known that this is all it took to make you fight, I would have killed her sooner. (to Inuyasha)
+How many people you killed, or how many you let live, it doesn't matter to me. You people incurred my wrath... That's reason enough, for you to meet your demise.
