@@ -1,5 +1,5 @@
-# Shingeki no Kyojin
+# Bleach
 
-Mikasa Ackerman
+Rukia Kuchiki
 
-You're either incompetent or you're spineless cowards. How pathetic. You can just sit here and suck on your fingers. Yeah, do that.
+They say the tongue is the root of all misfortune.
