@@ -1,5 +1,5 @@
-# Angel Beats!
+# Serial Experiments Lain
 
-Yuri Nakamura
+Arisu Mizuki
 
-Just give up already. Or do you want my other knife to slice your throat?
+If you aren't remembered, then you never existed.
