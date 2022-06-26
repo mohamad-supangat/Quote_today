@@ -1,5 +1,5 @@
-# Mahouka Koukou no Rettousei
+# Angel Beats!
 
-Tatsuya Shiba
+Yuri Nakamura
 
-How many people you killed, or how many you let live, it doesn't matter to me. You people incurred my wrath... That's reason enough, for you to meet your demise.
+Just give up already. Or do you want my other knife to slice your throat?
