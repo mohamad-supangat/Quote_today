@@ -1,5 +1,5 @@
-# Tamako Market
+# Nanatsu no Taizai
 
-Kunio Yaobi
+Meliodas
 
-If you think music is only made of sounds, you're mistaken. Silence is also part of music.
+Everyone has to die someday. But what they believed in will never fade away as long as someone protects it. Once you've resolved to take on those principles, no matter how much blood and tears you shed, you follow through with it! That's what it means to be a knight.
