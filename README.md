@@ -1,5 +1,5 @@
-# 07 Ghost
+# Kamisama no Inai Nichiyoubi
 
-Teito Klein
+Hampnie Hambart
 
-I used to think that eating was only consuming needed nutrients. I never thought it could fill the emptiness in me.
+Remember this. The only words that can keep you alive are "I want to live."
