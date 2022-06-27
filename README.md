@@ -1,5 +1,5 @@
-# Vampire Knight
+# Chihayafuru 2
 
-Kaname Kuran
+Hidehiro Harada
 
-Sometimes, forgetting is a type of happiness.
+Luck of the draw isn’t about luck. Luck doesn’t decide a match!
