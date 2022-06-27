@@ -1,5 +1,5 @@
-# Cowboy Bebop
+# Umineko no Naku Koro ni
 
-Jet Black
+Frederica Bernkastel
 
-Men always seem to think about their past before they die, as though they were frantically searching for proof that they truly lived.
+Everyone has a right to pursue a happy life. The difficult part is to be given that right.
