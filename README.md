@@ -1,5 +1,5 @@
-# Kuroshitsuji
+# Naruto Shippūden
 
-Elizabeth Middleford
+Madara Uchiha
 
-Ciel, how are you?
+Love is not necessary, power is the only true necessity.
