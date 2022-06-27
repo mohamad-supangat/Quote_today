@@ -1,5 +1,5 @@
-# Chihayafuru 2
+# Kuroshitsuji
 
-Hidehiro Harada
+Lau
 
-Luck of the draw isn’t about luck. Luck doesn’t decide a match!
+Can a world this interesting actually be reality?
