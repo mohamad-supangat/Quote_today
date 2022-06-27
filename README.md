@@ -1,5 +1,5 @@
-# Log Horizon
+# Hyouka
 
-Shiroe
+Oreki Houtarou
 
-It's true that there's a lot we don't know about this world. But that's why we must go forward and do what we can. One thing at a time.
+I'm not stupid. I'm just too lazy to show how smart I am.
