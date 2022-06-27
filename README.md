@@ -1,5 +1,5 @@
-# Code Geass: Lelouch of the Rebellion
+# Inuyasha
 
-Lelouch Lamperouge
+Sesshomaru
 
-You will never be able to love anybody else until you love your self...
+Be not a fool, I have no such time to waste.
