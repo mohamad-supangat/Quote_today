@@ -1,5 +1,5 @@
-# Naruto Shippūden
+# Bleach
 
-Madara Uchiha
+Uryuu Ishida
 
-Love is not necessary, power is the only true necessity.
+I am calm. That's why I can fight you!
