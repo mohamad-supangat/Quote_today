@@ -1,5 +1,5 @@
-# Steins;Gate
+# Log Horizon
 
-Kurisu Makise
+Shiroe
 
-I've only lived 18 years, but I don't want to change any of them. They're all part of my life, even the failures.
+It's true that there's a lot we don't know about this world. But that's why we must go forward and do what we can. One thing at a time.
