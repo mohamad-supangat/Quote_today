@@ -1,5 +1,5 @@
-# Fullmetal Alchemist
+# Bleach
 
-Edward Elric
+Yasutora Sado
 
-Wrong, holy man. All we want is to get our bodies normal again. See, we don't lie about what's possible. We didn't start a cult.
+I don't believe that an absolute power really exists in any world. Power is unstable. It changes constantly. Small differences will always appear, as one has between you and I. So the one who widens that gap will be the winner!
