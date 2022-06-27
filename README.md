@@ -1,5 +1,5 @@
-# Paradise Kiss
+# Sekai Ichi Hatsukoi
 
-Yukari Hayasaka
+Masamune Takano
 
-Loving a person isn’t about logic or reason.
+I can’t shake the feeling that I’ve met you before, but I can’t remember where.
