@@ -1,5 +1,5 @@
-# Inuyasha
+# Vampire Knight
 
-Sesshomaru
+Kaname Kuran
 
-Be not a fool, I have no such time to waste.
+Sometimes, forgetting is a type of happiness.
