@@ -1,5 +1,5 @@
-# Sekai Ichi Hatsukoi
+# Code Geass: Lelouch of the Rebellion
 
-Masamune Takano
+Lelouch Lamperouge
 
-I can’t shake the feeling that I’ve met you before, but I can’t remember where.
+You will never be able to love anybody else until you love your self...
