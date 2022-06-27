@@ -1,5 +1,5 @@
-# Medaka Box
+# Fullmetal Alchemist
 
-Hansode Shiranui
+Edward Elric
 
-It's pointless to force people to do their best if they don't want to.
+Wrong, holy man. All we want is to get our bodies normal again. See, we don't lie about what's possible. We didn't start a cult.
