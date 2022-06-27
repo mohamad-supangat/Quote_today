@@ -1,5 +1,5 @@
-# Bleach
+# Steins;Gate
 
-Shiba Kaien
+Kurisu Makise
 
-When we die, our bodies disintegrate and become part of the reishi that make up Soul Society. And when that time comes...where does your heart go? It gets passed on to your nakama (comrades). If you pass it on to them, then your heart will always live on within them. Kuchiki, that's why...you must never, ever, ever die alone. Got it, Kuchiki?
+I've only lived 18 years, but I don't want to change any of them. They're all part of my life, even the failures.
