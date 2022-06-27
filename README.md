@@ -1,5 +1,5 @@
-# Bleach
+# Kamisama No Memochou
 
-Rukia Kuchiki
+Shionji Yuuko
 
-[holds up juice box] How do you drink from this?
+We will never laugh at ourselves. Just as earthworms do not fear darkness and penguins are not ashamed of their inability to fly. That's the meaning of life, is it not?
