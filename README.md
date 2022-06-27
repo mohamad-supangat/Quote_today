@@ -1,5 +1,5 @@
-# Umineko no Naku Koro ni
+# Toaru Majutsu no Index
 
-Frederica Bernkastel
+Accelerator
 
-Everyone has a right to pursue a happy life. The difficult part is to be given that right.
+Listen, even if someone is suffering before you, the kind of person that can take up arms without hesitation to shoot down the villain is no better than a villain himself. The kind that doesn’t care about others, doesn’t give 2nd chances; someone that kills if given a reason, is definitely not a hero. You don’t have to become that kind of person. That’s my specialty. Only I have to go through that.
