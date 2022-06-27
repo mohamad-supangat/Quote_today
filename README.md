@@ -1,5 +1,5 @@
-# Kuroko No Basket
+# Medaka Box
 
-Akashi Seijuurou
+Hansode Shiranui
 
-What a laughable attempt. You should just stay where you are, groveling at my feet.
+It's pointless to force people to do their best if they don't want to.
