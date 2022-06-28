@@ -20,11 +20,11 @@ fetch("https://nekos.best/api/v2/neko")
 `;
     }
 
-    // console.log(new_quote);
+    console.log(new_quote);
     try {
       fs.writeFileSync("README.md", new_quote);
       exec("git add .");
-      exec(`git commit -m '${getEmoji()}`);
+      exec(`git commit -m '${getEmoji()}'`);
       exec(`git push origin master`);
     } catch (err) {
       console.error(err);
