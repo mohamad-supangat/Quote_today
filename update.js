@@ -13,7 +13,9 @@ fetch("https://nekos.best/api/v2/neko")
 <p align="center">
   <img width="500" src="${anime.url}">
   <hr/>
-  <a href="${anime.source_url}">${anime.artist_name}</a>
+  <center>
+    artist: <a href="${anime.source_url}">${anime.artist_name}</a>
+  </center>
 </p>
 
 `;
