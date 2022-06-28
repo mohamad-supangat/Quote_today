@@ -1,6 +1,5 @@
-# Haikyuu!!
+# ReLIFE
 
-Shōyō Hinata
+Kaizaki Arata
 
-But now we can fight. Even if they read us or catch up to us...
-We can fight!
+Studying is important, but I think love is too. It's the last summer of high school. It's a precious time that won't come again.
