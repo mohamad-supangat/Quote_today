@@ -1,5 +1,5 @@
-# Bungaku Shoujo
+# Death Note
 
-Konoha Inoue
+Ryuk
 
-I believe that some truths should never be known.
+Humans are so... interesting.
