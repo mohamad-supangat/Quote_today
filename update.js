@@ -12,9 +12,8 @@ fetch("https://nekos.best/api/v2/neko")
       new_quote += `
 <p align="center">
   <img width="500" src="${anime.url}">
-
-
-  ### <a href="${anime.source_url}">${anime.artist_name}</a>
+  <hr/>
+  <a href="${anime.source_url}">${anime.artist_name}</a>
 </p>
 
 `;
