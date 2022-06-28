@@ -1,5 +1,5 @@
-# ReLIFE
+# Death Note
 
-Kaizaki Arata
+Near
 
-Studying is important, but I think love is too. It's the last summer of high school. It's a precious time that won't come again.
+I don't know what to say. Now, I think it's just best to observe closely.
