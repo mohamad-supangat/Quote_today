@@ -1,5 +1,5 @@
-# Death Note
+# Noragami
 
-Near
+Yato
 
-I don't know what to say. Now, I think it's just best to observe closely.
+Duh!! There's no such thing as free wish.
