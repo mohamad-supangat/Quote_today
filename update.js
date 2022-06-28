@@ -20,7 +20,7 @@ fetch("https://nekos.best/api/v2/neko")
 
 
 <p>
-<small>Auto generate README.md from update.js</small>
+###### Auto generate README.md from update.js
 </p>
 
 `;
