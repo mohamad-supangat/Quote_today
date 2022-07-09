@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img width="500" src="https://nekos.best/api/v2/neko/0349.png">
+  <img width="500" src="https://nekos.best/api/v2/neko/0070.png">
   <hr/>
   <center>
-    artist: <a href="https://www.pixiv.net/en/artworks/87598801">マリー</a>
+    artist: <a href="https://yande.re/post/show/314861">宮坂なこ</a>
   </center>
 </p>
 
