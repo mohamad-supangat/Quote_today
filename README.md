@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img width="500" src="https://nekos.best/api/v2/neko/0746.png">
+  <img width="500" src="https://nekos.best/api/v2/neko/0766.png">
   <hr/>
   <center>
-    artist: <a href="https://www.pixiv.net/en/artworks/96538052">タン塩</a>
+    artist: <a href="https://www.pixiv.net/en/artworks/98804072">日向青</a>
   </center>
 </p>
 
