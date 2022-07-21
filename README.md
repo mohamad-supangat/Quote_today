@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img width="500" src="https://nekos.best/api/v2/neko/0773.png">
+  <img width="500" src="https://nekos.best/api/v2/neko/0594.png">
   <hr/>
   <center>
-    artist: <a href="https://www.pixiv.net/en/artworks/98641778">Remiliacn</a>
+    artist: <a href="https://www.pixiv.net/en/artworks/95805796">金快気</a>
   </center>
 </p>
 
