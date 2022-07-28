@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img width="500" src="https://nekos.best/api/v2/neko/0200.png">
+  <img width="500" src="https://nekos.best/api/v2/neko/0360.png">
   <hr/>
   <center>
-    artist: <a href="https://twitter.com/i/web/status/1115592673417519104">Classic_S_</a>
+    artist: <a href="https://www.pixiv.net/en/artworks/87387963">椿目ジロ</a>
   </center>
 </p>
 
