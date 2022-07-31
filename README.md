@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img width="500" src="https://nekos.best/api/v2/neko/0013.png">
+  <img width="500" src="https://nekos.best/api/v2/neko/0188.png">
   <hr/>
   <center>
-    artist: <a href="https://www.pixiv.net/en/artworks/85451289">七瀬尚</a>
+    artist: <a href="https://www.pixiv.net/en/artworks/82080718">KONGYA</a>
   </center>
 </p>
 
