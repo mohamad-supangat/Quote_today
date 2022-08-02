@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img width="500" src="https://nekos.best/api/v2/neko/0017.png">
+  <img width="500" src="https://nekos.best/api/v2/neko/0230.png">
   <hr/>
   <center>
-    artist: <a href="https://twitter.com/i/web/status/884733640084602880">甘城なつき</a>
+    artist: <a href="https://www.pixiv.net/en/artworks/90785531">ようづき</a>
   </center>
 </p>
 
