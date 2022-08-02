@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img width="500" src="https://nekos.best/api/v2/neko/0035.png">
+  <img width="500" src="https://nekos.best/api/v2/neko/0136.png">
   <hr/>
   <center>
-    artist: <a href="https://twitter.com/i/web/status/959079156649574401">nitaleg_</a>
+    artist: <a href="https://pbs.twimg.com/media/DbZdST_VAAAD94v.jpg:large">beko</a>
   </center>
 </p>
 
