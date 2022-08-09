@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img width="500" src="https://nekos.best/api/v2/neko/0297.png">
+  <img width="500" src="https://nekos.best/api/v2/neko/0054.png">
   <hr/>
   <center>
-    artist: <a href="https://www.pixiv.net/en/artworks/86826162">ミュシャ</a>
+    artist: <a href="https://www.pixiv.net/en/artworks/76703090">白沢飾音</a>
   </center>
 </p>
 
