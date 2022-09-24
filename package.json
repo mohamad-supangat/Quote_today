@@ -6,6 +6,6 @@
   "dependencies": {
     "get-random-emoji": "^1.0.0",
     "https-proxy-agent": "^5.0.1",
-    "node-fetch": "2"
+    "node-fetch": "^2.6.7"
   }
 }
