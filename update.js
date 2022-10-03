@@ -3,9 +3,9 @@ const HttpsProxyAgent = require('https-proxy-agent');
 const fs = require("fs");
 const { exec } = require("child_process");
 const getEmoji = require("get-random-emoji");
-const proxyAgent = new HttpsProxyAgent("http://106.75.171.235:8080");
+// const proxyAgent = new HttpsProxyAgent("http://106.75.171.235:8080");
 
-fetch("https://nekos.best/api/v2/neko", { agent: proxyAgent})
+fetch("https://nekos.best/api/v2/neko", { agent: null})
   .then((response) => response.json())
   .then((response) => {
     let new_quote = "";
