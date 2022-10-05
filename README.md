@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img width="500" src="https://nekos.best/api/v2/neko/0031.png">
+  <img width="500" src="https://nekos.best/api/v2/neko/0406.png">
   <hr/>
   <center>
-    artist: <a href="https://twitter.com/i/web/status/1327841357038186498">soyubee</a>
+    artist: <a href="https://www.pixiv.net/en/artworks/88337819">しろくま</a>
   </center>
 </p>
 
