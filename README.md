@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img width="500" src="https://nekos.best/api/v2/neko/0699.png">
+  <img width="500" src="https://nekos.best/api/v2/neko/0241.png">
   <hr/>
   <center>
-    artist: <a href="https://www.pixiv.net/en/artworks/97878358">茶乃ひより</a>
+    artist: <a href="https://www.pixiv.net/en/artworks/78293758">maruma</a>
   </center>
 </p>
 
