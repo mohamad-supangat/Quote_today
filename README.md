@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img width="500" src="https://nekos.best/api/v2/neko/0519.png">
+  <img width="500" src="https://nekos.best/api/v2/neko/0692.png">
   <hr/>
   <center>
-    artist: <a href="https://www.pixiv.net/en/artworks/92388489">milky</a>
+    artist: <a href="https://twitter.com/hoshi_u3/status/1496043743425994752">ほし</a>
   </center>
 </p>
 
