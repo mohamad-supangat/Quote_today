@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img width="500" src="https://nekos.best/api/v2/neko/0140.png">
+  <img width="500" src="https://nekos.best/api/v2/neko/0777.png">
   <hr/>
   <center>
-    artist: <a href="https://www.pixiv.net/en/artworks/69754165">つるせ</a>
+    artist: <a href="https://www.artstation.com/artwork/nE18aK">MIN _A</a>
   </center>
 </p>
 
