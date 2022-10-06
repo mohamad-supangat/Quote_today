@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img width="500" src="https://nekos.best/api/v2/neko/0090.png">
+  <img width="500" src="https://nekos.best/api/v2/neko/0302.png">
   <hr/>
   <center>
-    artist: <a href="https://www.pixiv.net/en/artworks/81677999">最poi的Nia</a>
+    artist: <a href="https://www.pixiv.net/en/artworks/84849363">まさよ</a>
   </center>
 </p>
 
