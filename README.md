@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img width="500" src="https://nekos.best/api/v2/neko/0705.png">
+  <img width="500" src="https://nekos.best/api/v2/neko/0767.png">
   <hr/>
   <center>
-    artist: <a href="https://skeb.jp/@xdarjeelingxtea/works/227">Darjeeling</a>
+    artist: <a href="https://www.pixiv.net/en/artworks/98547481">えにゃ</a>
   </center>
 </p>
 
